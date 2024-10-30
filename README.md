@@ -6,8 +6,11 @@
 Antes de executar o projeto, certifique-se de ter instalado:
  
  .Node.js
+ 
  .MySQL
+ 
  .VsCode
+ 
  .Postman
 
  # Passos para Executar
@@ -63,8 +66,11 @@ npm install @types/cors --save-dev
 # Exemplo .env
 
 DB_HOST = 
+
 DB_USER = 
+
 DB_PASSWORD = 
+
 DB_SCHEMA = 
 
 
